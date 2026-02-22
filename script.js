@@ -186,17 +186,3 @@ function showNextQuote() {
 
 setInterval(showNextQuote, 4000);
 showNextQuote();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
